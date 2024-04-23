@@ -1,0 +1,13 @@
+#container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 20%;
+    text-align: center;
+    background-color: cadetblue;
+    border-radius: 10px;
+}
